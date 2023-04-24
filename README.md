@@ -14,4 +14,8 @@
 
 4. Bravo, you should be able to see this screen when you access using your project url e.g http://localhost/your-project-url
 
+
+
 <img src="https://demo.naweri.com/images/Screenshot.png" alt="splash-screen" width="100%" />
+<br>
+<img src="https://demo.naweri.com/images/Screenshot1.png" alt="splash-screen" width="100%" />
